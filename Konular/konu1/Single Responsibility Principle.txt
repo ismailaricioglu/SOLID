@@ -1,0 +1,3 @@
+Single Responsibility Principle [Tek Sorumluluk Prensibi] 
+
+Bir bileşen (katman, class, metot, vs) tek sorumluluk almalı ve bir tek amaç için çalışmalı

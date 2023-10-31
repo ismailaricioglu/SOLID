@@ -1,0 +1,3 @@
+Open/Closed Principle [Açık/Kapalı Prensibi]
+
+Bir bileşen değişime kapalı ve fakat gelişime açık olmalı

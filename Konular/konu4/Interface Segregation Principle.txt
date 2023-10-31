@@ -1,0 +1,3 @@
+Interface Segregation Principle [Arayüz Ayırma Prensibi]
+
+Bir sınıfın işlevlerini tutarlı olmak kaydı ile ufak ara yüzlere bölmeli, böylece ihtiyaç dışı diğer kodlara erişim engellenebilir ve okunaklı bakımı kolay bir yazıma ulaşılır

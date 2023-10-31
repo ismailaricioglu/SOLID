@@ -1,0 +1,3 @@
+Dependency Inversion/Injection Principle [Bağımlılığı Tersine Çevirme/Enjeksiyon Prensibi]
+
+Bağımlı olunan bileşen, oluşturma süreçleri ile ilgilenmeden kullanıma hazır halde istenmeli

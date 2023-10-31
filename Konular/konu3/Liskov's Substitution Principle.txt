@@ -1,0 +1,8 @@
+Liskov's Substitution Principle [Liskov'un Oyuncu Değiştirme Prensibi]
+
+Programın beklentilerine (amacına) sağdık kalarak oyuncu değişikliği yapmalı. Örnek; bir futbol maçında yapılan oyuncu değişikliği gibi.
+
+Bilinmesi gerekenleri
+	• Invariants			 	: Asla değiştirilemez koşullar (katman, class, metot, özellik, alan vs)
+	• Pre-conditions		 	: İşlem öncesi ön koşul uyumu. Kalıtımla yeni koşul eklenemez.
+	• Post-conditions		 	: İşlem sonrası son koşul uyumu. Zayıflatılamaz ve fakat geliştirilebilir koşul.
